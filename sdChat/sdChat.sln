@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdChat", "sdChat\sdChat.csproj", "{3CAE7A26-53FB-45BC-BB4E-7DDF550DFAF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleChat", "ConsoleChat\ConsoleChat.csproj", "{EB2FFCAE-DA41-46CE-B738-1F34F56A15EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAE7A26-53FB-45BC-BB4E-7DDF550DFAF2}.Debug|x86.ActiveCfg = Debug|x86
+		{3CAE7A26-53FB-45BC-BB4E-7DDF550DFAF2}.Debug|x86.Build.0 = Debug|x86
+		{3CAE7A26-53FB-45BC-BB4E-7DDF550DFAF2}.Release|x86.ActiveCfg = Release|x86
+		{3CAE7A26-53FB-45BC-BB4E-7DDF550DFAF2}.Release|x86.Build.0 = Release|x86
+		{EB2FFCAE-DA41-46CE-B738-1F34F56A15EF}.Debug|x86.ActiveCfg = Debug|x86
+		{EB2FFCAE-DA41-46CE-B738-1F34F56A15EF}.Debug|x86.Build.0 = Debug|x86
+		{EB2FFCAE-DA41-46CE-B738-1F34F56A15EF}.Release|x86.ActiveCfg = Release|x86
+		{EB2FFCAE-DA41-46CE-B738-1F34F56A15EF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ConsoleChat\ConsoleChat.csproj
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
